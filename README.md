@@ -24,6 +24,8 @@
 <p><strong><a href="https://bitinfocharts.com/ru/top-100-dormant_7y-bitcoin-addresses.html" target="_blank" rel="noreferrer noopener">https://bitinfocharts.com/ru/top-100-dormant_7y-bitcoin-addresses.html</a></strong></p>
 <!-- /wp:paragraph -->
 
+
+
 ![BitInfoChart](BitInfoChart.png)
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -65,3 +67,9 @@
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+----
+
+Веб-сайт: http://бизнес-идеея.рф/восстановление-финансов
+
+----
